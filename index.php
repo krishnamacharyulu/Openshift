@@ -1,6 +1,6 @@
 <?php
 
 
-print "CLI second test of OCP"
+print "CLI Third test of OCP"
    
 ?>
